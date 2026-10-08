@@ -1,0 +1,32 @@
+[
+    {
+        "id": "B001",
+        "nama": "Beras",
+        "stok": 20,
+        "harga": 15000
+    },
+    {
+        "id": "B002",
+        "nama": "Minyak Goreng",
+        "stok": 15,
+        "harga": 18000
+    },
+    {
+        "id": "B003",
+        "nama": "Gula",
+        "stok": 10,
+        "harga": 17000
+    },
+    {
+        "id": "B004",
+        "nama": "Telur",
+        "stok": 30,
+        "harga": 28000
+    },
+    {
+        "id": "B005",
+        "nama": "Kopi",
+        "stok": 35,
+        "harga": 12000
+    }
+]
